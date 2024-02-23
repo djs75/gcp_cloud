@@ -4,12 +4,12 @@ This repo is a collection of Google Cloud artifacts that have been gathered to d
 [Google Reference Architure Center](https://cloud.google.com/architecture)
 
 ###Storage
-![Transfer Table](../images/GCP transfer table.GIF)
+![Transfer Table](https://github.com/djs75/gcp_cloud/blob/main/images/GCP transfer table.GIF?raw=true)
 
 ###SRE
-![SRE pryamid](../images/GCP SRE monitoring.JPG)
+![SRE pryamid](https://github.com/djs75/gcp_cloud/blob/main/images/GCP%20SRE%20monitoring.JPG?raw=true)
 
 ###MLOps/DataOps
-![MLOps](../images/gcp_mlops.png)
-![Data pipeline](../images/GCP typical pipeline.GIF)
+![MLOps](https://github.com/djs75/gcp_cloud/blob/main/images/gcp_mlops.png?raw=true)
+![Data pipeline](https://github.com/djs75/gcp_cloud/blob/main/images/GCP typical pipeline.GIF?raw=true)
 
