@@ -5,12 +5,16 @@ This repo is a collection of Google Cloud artifacts that have been gathered to d
 
 <H3>Storage</H3>  
 
-![Transfer Table](https://github.com/djs75/gcp_cloud/blob/main/images/GCP%20transfer%20table.GIF?raw=true)
+![Transfer Table](https://github.com/djs75/gcp_cloud/blob/main/images/GCP%20transfer%20table.GIF?raw=true)  
 
 <h3>SRE</h3>  
-![SRE pryamid](https://github.com/djs75/gcp_cloud/blob/main/images/GCP%20SRE%20monitoring.JPG?raw=true)
+
+![SRE pryamid](https://github.com/djs75/gcp_cloud/blob/main/images/GCP%20SRE%20monitoring.JPG?raw=true)  
 
 <H3>MLOps/DataOps</H3>  
-![MLOps](https://github.com/djs75/gcp_cloud/blob/main/images/gcp_mlops.png?raw=true)
-![Data pipeline](https://github.com/djs75/gcp_cloud/blob/main/images/GCP%20typical%20pipeline.GIF?raw=true)
+
+![MLOps](https://github.com/djs75/gcp_cloud/blob/main/images/gcp_mlops.png?raw=true)  
+
+![Data pipeline](https://github.com/djs75/gcp_cloud/blob/main/images/GCP%20typical%20pipeline.GIF?raw=true)  
+
 
