@@ -1,5 +1,8 @@
 <H2>Google Cloud Patterns</H2>  
 
+More to come, plus I need to work on my markdown 
+
+
 This repo is a collection of Google Cloud artifacts that have been gathered to develop knowledge management
 [Google Reference Architure Center](https://cloud.google.com/architecture)
 
