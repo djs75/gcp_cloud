@@ -21,3 +21,12 @@ This repo is a collection of Google Cloud artifacts that have been gathered to d
 ![Data pipeline](https://github.com/djs75/gcp_cloud/blob/main/images/GCP%20typical%20pipeline.GIF?raw=true)  
 
 
+```mermaid
+graphTD;
+   A-->B;
+   A-->C;
+   B-->D;
+   C-->E;
+   D-->E;
+```
+
