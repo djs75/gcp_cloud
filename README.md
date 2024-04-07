@@ -22,7 +22,7 @@ This repo is a collection of Google Cloud artifacts that have been gathered to d
 
 
 ```mermaid
-graphTD;
+graph TD;
    A-->B;
    A-->C;
    B-->D;
