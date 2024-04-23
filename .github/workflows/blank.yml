@@ -27,7 +27,6 @@ jobs:
 
       # get date and job status
       - name: get date and job status
-        shell: bash
         run: |
           date
           ${{job.status}}
