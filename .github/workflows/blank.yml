@@ -38,4 +38,4 @@ jobs:
       - name: get workspace variable
         run: |
           date
-          echo $GITHUB_WORKSPACE
+          check_run
