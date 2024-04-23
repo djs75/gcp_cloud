@@ -25,11 +25,10 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4.1.3
 
-      # get branch and commit
-      - name: get branch and commit hash
+      # get date and job status
+      - name: get date and job status
         shell: bash
         run: |
           date
-          ${{github.sha}}
           ${{job.status}}
           
