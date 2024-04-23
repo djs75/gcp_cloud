@@ -30,6 +30,6 @@ jobs:
         shell: bash
         run: |
           date
-          ${{github.head_ref}}.${{github.sha}}
+          ${{github.sha}}
           ${{job.status}}
           
