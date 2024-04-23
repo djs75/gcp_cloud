@@ -30,5 +30,7 @@ jobs:
         shell: bash
         run: |
           date
-          ls -ls
+          ${{github.action_status}}
+          ${{ github.ref }}.${{ github.sha }}
+          ${{job.status}}
           
