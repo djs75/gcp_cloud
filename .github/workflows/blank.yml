@@ -30,7 +30,5 @@ jobs:
         shell: bash
         run: |
           date
-          echo "branch=${GITHUB_REF#refs/heads/}" >> "$GITHUB_ENV"
-          echo "sha_short=$(git rev-parse --short "$GITHUB_SHA")" >> "$GITHUB_ENV"
-          echo "${{env.branch}}.${{env.sha_short}}"
+          ls -ls
           
