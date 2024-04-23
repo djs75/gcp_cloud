@@ -38,4 +38,4 @@ jobs:
       - name: get workspace variable
         run: |
           date
-          echo "branch=$(echo ${GITHUB_REF#refs/heads/})"
+          echo "sha_short=$(git rev-parse --short "$GITHUB_SHA")"
